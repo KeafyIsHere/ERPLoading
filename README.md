@@ -1,7 +1,7 @@
 # ERPLoading
 ERP loading screen for VRChat
 
-#preview
+# preview
 ![alt text](https://cdn.discordapp.com/attachments/775114634390798406/797993324341362728/unknown.png)
 
 Video Preview
